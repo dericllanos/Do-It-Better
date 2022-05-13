@@ -1,0 +1,21 @@
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Do It Better - Test.exe.config
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Do It Better - Test.exe
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Do It Better - Test.pdb
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Predator\source\repos\Do It Better - Test\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test.csprojAssemblyReference.cache
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\MainWindow.g.cs
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\App.g.cs
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test_MarkupCompile.cache
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test_MarkupCompile.lref
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\MainWindow.baml
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test.g.resources
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do_It_Better___Test.Properties.Resources.resources
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test.csproj.GenerateResource.cache
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test.csproj.CopyComplete
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test.exe
+C:\Users\Predator\source\repos\Do It Better - Test\obj\Debug\Do It Better - Test.pdb
