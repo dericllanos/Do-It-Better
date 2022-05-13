@@ -1,4 +1,4 @@
-# Do-It-Better
+# Capstone: Do It Better
 My university capstone project.
 
 This application was developed using Unity C# and the Microsoft Kinect Sensor skeletal tracking. 
